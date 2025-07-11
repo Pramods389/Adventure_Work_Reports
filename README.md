@@ -27,7 +27,7 @@ This project presents a comprehensive Power BI dashboard built using the Adventu
 - Created 3 pages - Exec, Product, Customer.
 - KPIs for Total Sales, Total Profit, and Orders
 - Trend analysis using line charts
-- Drillthrough to Product and Salesperson details
+- Drillthrough to Product and Customer details
 - Interactive tooltips and bookmarks.
 - Bookmarks and Buttons to toggle pages.
 - Gauge visuals to show the targets and the achieved sales.
@@ -36,7 +36,7 @@ This project presents a comprehensive Power BI dashboard built using the Adventu
 
 - Accessories contributed 45% of total orders.
 - Bikes category was the top-performing product line.
-- Repeat customers increased by 15% YoY.
+- Return percentage decreased by 5% YoY.
 
 ## 💡 What I Learned
 
