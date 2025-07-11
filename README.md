@@ -46,5 +46,6 @@ This project presents a comprehensive Power BI dashboard built using the Adventu
 - Importance of storytelling in dashboard design.
   
 ## Preview
+![Dashboard Preview](https://github.com/Pramods389/Sales_Dashboard/blob/main/Sales_Dashboard.png)
 
 
