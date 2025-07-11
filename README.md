@@ -24,6 +24,7 @@ This project presents a comprehensive Power BI dashboard built using the Adventu
 ## 🛠️ Features Implemented
 
 - Slicers for dynamic filtering (Region, Year, Category)
+- Created 3 pages - Exec, Product, Customer.
 - KPIs for Total Sales, Total Profit, and Orders
 - Trend analysis using line charts
 - Drillthrough to Product and Salesperson details
@@ -45,7 +46,7 @@ This project presents a comprehensive Power BI dashboard built using the Adventu
 - Importance of buttons when creating toggle menu.
 - Importance of storytelling in dashboard design.
   
-## Preview
-![Dashboard Preview](https://github.com/Pramods389/Sales_Dashboard/blob/main/Sales_Dashboard.png)
+## 📸 Preview
+![Dashboard Preview](https://github.com/Pramods389/Adventure_Work_Reports/blob/main/Adventure_Work_Reports_Preview.png)
 
 
